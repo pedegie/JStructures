@@ -1,0 +1,6 @@
+components:
+  Channel:
+    type: string
+    enum:
+      - SMS
+      - Email
